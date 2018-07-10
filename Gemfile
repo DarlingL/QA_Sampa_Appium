@@ -4,5 +4,6 @@ source "https://rubygems.org"
 
 
 gem 'appium_lib'
-gem "cucumber"
+gem 'cucumber'
+gem 'faker'
 gem 'pry'
